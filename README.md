@@ -2,4 +2,4 @@
 Project Image Processing
 
 
-Project mata kulia Pengolahan Citra Digital (Created Mei 2017)
+Project mata kulia Pengolahan Citra Digital menggunakan metode "Region of Interest" (Created Mei 2017)
